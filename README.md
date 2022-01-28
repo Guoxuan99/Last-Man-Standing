@@ -1,5 +1,5 @@
 # Last-Man-Standing
-2021/2022 sem 1 - AI Game Group Assignment Project - Last Man Standing - A Unity horror game that utilized Navmesh, Waypoints, State Machine and ML-Agents..
+2021/2022 sem 1 - AI Game Group Assignment Project - Last Man Standing - A Unity horror game that utilized Navmesh, Waypoints, State Machine and ML-Agents.
 
 
 Link to the Unity Package on Google Drive: https://drive.google.com/drive/folders/1sHUN2UHe-3xOGihfNkIcNgtrvf9zCmQb?usp=sharing
