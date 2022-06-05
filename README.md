@@ -2,7 +2,7 @@
 2021/2022 sem 1 - AI Game Group Assignment Project - Last Man Standing - A Unity horror game that utilized Navmesh, Waypoints, State Machine and ML-Agents.
 
 
-Link to the Unity Package on Google Drive: https://drive.google.com/drive/folders/1sHUN2UHe-3xOGihfNkIcNgtrvf9zCmQb?usp=sharing
+Link to the Unity Package on Google Drive: https://drive.google.com/drive/folders/1hfkYkK_2PQwcbVVw6AD-ivqA6T1XUK6p?usp=sharing
 
 
 This game is a horror game that you are trapped in a hospital with many flesh eating zombie doctors. Before you find the key and escape from the hospital, you will need to collect all the vaccines inside. Your dogs (ML-Agents) will help you to find the vaccines, while you need to avoid the patrolling zombie doctors (Navmesh Agents).
